@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "John Rimon",
+      "number": "11-234",
+      "id": 3
+    },
+    {
+      "name": "Yocheved Katz",
+      "number": "123-678",
+      "id": 4
+    },
+    {
+      "name": "Yaakov Chon",
+      "number": "123-456",
+      "id": 5
+    }
+  ]
+}
